@@ -1,0 +1,68 @@
+{
+  "Items": 
+ [
+  {
+    "id": "Auto",
+     "image_url": "https",
+     "title": "Jogo de panelas",
+     "description": "Jogo de panelsa para o casal cozinhas novos sabores juntos!",
+     "price": "R$ 378,95"
+ },
+ {
+   "id": "Auto",
+    "image_url": "https",
+     "title": "Jogo de fondue",
+     "description": "Jogo de fundue para aquecer as noites de inverno italiano.",
+     "price": "R$ 121,90"
+ },
+ {
+  "id": "Auto",
+   "image_url": "https",
+   "title": "Robo aspirador",
+   "description": "Menos trabalho, mais tempo juntos.",
+   "price": "R$ 526,72"
+  },
+  {
+  "id": "Auto",
+   "image_url": "https",
+   "title": "Rolo de macarrão",
+   "description": "caso o noivo não se comporte",
+   "price": "R$ 35,70"
+  },   
+  {
+  "id": "Auto",
+   "image_url": "https",
+   "title": "Capacete",
+   "description": "contra o rolo de macarrão para o noivo",
+   "price": "R$ 128,95"
+  },   
+  {
+    "id": "Auto",
+      "image_url": "https",
+      "title": "Diarista",
+      "description": "Garanta a limpeza do cafofo",
+      "price": "R$ 200,00"
+    },
+    {
+      "id": "Auto",
+        "image_url": "https",
+        "title": "Contribua para o casal voltar o mais breve possivel",
+        "description": "Nós sabemos que dá saudade..",
+        "price": "R$ 2875,25"
+    },
+    {
+      "id": "Auto",
+        "image_url": "https",
+        "title": "Ajude a pagar o cartão",
+        "description": "Sério, dá até medo :x",
+        "price": "R$ 1275,00"
+    },
+    {
+      "id": "Auto",
+        "image_url": "https",
+        "title": "Presentão",
+        "description": "Se por uma intervenção divina você se sentir tocado..",
+        "price": "R# 5793,22"
+    },
+  ]
+}
